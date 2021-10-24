@@ -66,3 +66,11 @@ article > img{
     width: 75%;
 }
 
+P > img{
+    width: 75%;
+    margin: center;
+}
+
+ul.normal{
+    text-align: left;
+}
